@@ -3,7 +3,7 @@ import ColorTextGenerator from "./components/ColorTextGenerator";
 
 export default function Home() {
   return (
-    <Container size="sm" pt="xl">
+    <Container size="sm" pt="xl"> 
       <Title style={{ textAlign: "center" }}>
         Discord Colored Text Generator
       </Title>
