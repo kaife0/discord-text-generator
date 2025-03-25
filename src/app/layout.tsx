@@ -2,7 +2,7 @@
 import "@mantine/core/styles.css";
 
 import {
-  ColorSchemeScript,
+  ColorSchemeScript, 
   MantineProvider,
   mantineHtmlProps,
 } from "@mantine/core";
