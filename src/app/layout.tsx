@@ -4,7 +4,7 @@ import "@mantine/core/styles.css";
 import {
   ColorSchemeScript, 
   MantineProvider,
-  mantineHtmlProps,
+  mantineHtmlProps, 
 } from "@mantine/core";
 
 export const metadata = {
