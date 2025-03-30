@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Textarea, Button, Paper, Group, Box, Title } from "@mantine/core";
 import {
   IconBold,
-  IconUnderline,
+  IconUnderline, 
   IconCopy,
   IconEraser,
 } from "@tabler/icons-react";
